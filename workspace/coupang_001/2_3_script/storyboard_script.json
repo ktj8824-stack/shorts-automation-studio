@@ -1,0 +1,93 @@
+{
+  "product_name": "원터치 음식물 쓰레기 거름망 거치대",
+  "target_audience": "자취생 및 주방 살림하는 분들",
+  "product_features": "손에 음식물 묻힐 일 없이 원터치로 깔끔하게 버림\n수세미나 행주 거치대로도 1석 2조 활용 가능\n만원 이하 갓성비에 싱크대 공간 차지 안 함",
+  "angles": [
+    {
+      "angle_id": "angle_1",
+      "title": "🪝 [문제 해결·공감형] 자취생 및 주방 살림하는 분들 필수! 삶의 질 수직 상승 앵글",
+      "hook": "아직도 불편하게 참으세요? 자취생 및 주방 살림하는 분들 사이에서 난리 난 '원터치 음식물 쓰레기 거름망 거치대'!",
+      "concept": "일상의 불편함을 먼저 찌른 뒤, '손에 음식물 묻힐 일 없이 원터치로 깔끔하게 버림' 기능으로 한 방에 해결하는 모습을 2.5~3.0초 간격으로 빠르게 보여주는 왕도형 구성"
+    },
+    {
+      "angle_id": "angle_2",
+      "title": "😱 [반전·경고 후킹형] '절대 사지 마세요' 역발상 호기심 앵글",
+      "hook": "이거 절대 사지 마세요... 한 번 쓰면 예전으로 절대 못 돌아갑니다.",
+      "concept": "초반 3초 동안 부정적인 멘트로 스크롤을 멈추게 한 뒤, 반전으로 핵심 장점 3가지를 폭격하여 댓글 참여와 구매 전환을 유도하는 구성"
+    },
+    {
+      "angle_id": "angle_3",
+      "title": "🔥 [가성비·리뷰 검증형] 쿠팡 후기 폭발 & 내돈내산 찐추천 앵글",
+      "hook": "요즘 쿠팡에서 왜 이렇게 많이 팔리나 했더니... 직접 써보고 소름 돋았습니다.",
+      "concept": "수많은 사람들이 선택한 이유(사회적 증거)를 앞세워 신뢰감을 주고 핵심 디테일을 짚어주는 리뷰형 구성"
+    }
+  ],
+  "storyboard": [
+    {
+      "scene_no": 1,
+      "time_range": "00:00 ~ 00:03",
+      "duration_sec": 3,
+      "step_role": "🪝 초반 3초 후킹",
+      "narration": "아직도 불편하게 참으세요? 자취생 및 주방 살림하는 분들 사이에서 난리 난 '원터치 음식물 쓰레기 거름망 거치대'!",
+      "subtitle_highlight": "아직도 불편하게 참으세요? 자취생!",
+      "visual_prompt_ko": "원터치 음식물 쓰레기 거름망 거치대 제품을 클로즈업으로 보여주며 시선을 강탈하는 임팩트 있는 첫 장면, 밝고 선명한 조명, 9:16 세로형",
+      "visual_prompt_en": "Vertical 9:16 commercial shot, dramatic close-up of 원터치 음식물 쓰레기 거름망 거치대, bright studio lighting, ultra detailed, eye-catching hook scene",
+      "camera_motion": "빠른 줌인 (Fast Zoom-In)"
+    },
+    {
+      "scene_no": 2,
+      "time_range": "00:03 ~ 00:07",
+      "duration_sec": 4,
+      "step_role": "😫 문제 제기 & 공감",
+      "narration": "평소에 자취생 및 주방 살림하는 분들 분들이라면 이런 불편함 진짜 공감하실 텐데요!",
+      "subtitle_highlight": "이런 불편함 공감하시죠?",
+      "visual_prompt_ko": "자취생 및 주방 살림하는 분들가 일상에서 불편함을 겪는 상황 묘사 후 원터치 음식물 쓰레기 거름망 거치대가 등장하는 전환 장면",
+      "visual_prompt_en": "Vertical 9:16 lifestyle shot, 자취생 및 주방 살림하는 분들 experiencing daily inconvenience in a modern Korean home setting, realistic photography",
+      "camera_motion": "좌우 패닝 (Pan Left-to-Right)"
+    },
+    {
+      "scene_no": 3,
+      "time_range": "00:07 ~ 00:12",
+      "duration_sec": 5,
+      "step_role": "✨ 핵심 장점 1 (해결책)",
+      "narration": "이 '원터치 음식물 쓰레기 거름망 거치대' 하나로 고민 끝입니다! 손에 음식물 묻힐 일 없이 원터치로 깔끔하게 버림 덕분에 너무 편해요.",
+      "subtitle_highlight": "손에 음식물 묻힐 일 없이 ",
+      "visual_prompt_ko": "원터치 음식물 쓰레기 거름망 거치대의 첫 번째 장점(손에 음식물 묻힐 일 없이 원터치로 깔끔하게 버림)을 실제로 사용하는 깔끔한 시연 장면",
+      "visual_prompt_en": "Vertical 9:16 product demonstration shot of 원터치 음식물 쓰레기 거름망 거치대, showcasing 손에 음식물 묻힐 일 없이 원터치로 깔끔하게 버림, clean modern background, high resolution",
+      "camera_motion": "부드러운 줌인 (Slow Zoom-In)"
+    },
+    {
+      "scene_no": 4,
+      "time_range": "00:12 ~ 00:17",
+      "duration_sec": 5,
+      "step_role": "🔥 핵심 장점 2 (디테일)",
+      "narration": "뿐만 아니라 수세미나 행주 거치대로도 1석 2조 활용 가능까지 가능해서 활용도가 정말 미쳤습니다!",
+      "subtitle_highlight": "수세미나 행주 거치대로도 1",
+      "visual_prompt_ko": "원터치 음식물 쓰레기 거름망 거치대의 두 번째 장점(수세미나 행주 거치대로도 1석 2조 활용 가능) 디테일 컷, 깔끔한 인테리어 배경",
+      "visual_prompt_en": "Vertical 9:16 macro detail shot of 원터치 음식물 쓰레기 거름망 거치대, highlighting 수세미나 행주 거치대로도 1석 2조 활용 가능, warm aesthetic lighting, commercial quality",
+      "camera_motion": "줌아웃 (Zoom-Out)"
+    },
+    {
+      "scene_no": 5,
+      "time_range": "00:17 ~ 00:21",
+      "duration_sec": 4,
+      "step_role": "👍 핵심 장점 3 (차별점)",
+      "narration": "여기에 만원 이하 갓성비에 싱크대 공간 차지 안 함까지 완벽하니까 후기가 좋을 수밖에 없겠죠?",
+      "subtitle_highlight": "만원 이하 갓성비에 싱크대 ",
+      "visual_prompt_ko": "원터치 음식물 쓰레기 거름망 거치대의 세 번째 장점(만원 이하 갓성비에 싱크대 공간 차지 안 함)과 전체적인 만족감을 보여주는 장면",
+      "visual_prompt_en": "Vertical 9:16 happy user holding or using 원터치 음식물 쓰레기 거름망 거치대 in a bright room, premium product showcase",
+      "camera_motion": "상하 틸트 (Tilt Up)"
+    },
+    {
+      "scene_no": 6,
+      "time_range": "00:21 ~ 00:25",
+      "duration_sec": 4,
+      "step_role": "🛒 구매 유도 (CTA)",
+      "narration": "지금 쿠팡 특가 정보는 고정 댓글 링크에 걸어뒀으니 품절 전에 꼭 확인해 보세요!",
+      "subtitle_highlight": "👇 고정 댓글 링크 확인!",
+      "visual_prompt_ko": "원터치 음식물 쓰레기 거름망 거치대 전체 풀샷과 함께 '고정 댓글 링크 확인' 화살표가 어울리는 깔끔한 엔딩 컷",
+      "visual_prompt_en": "Vertical 9:16 hero product shot of 원터치 음식물 쓰레기 거름망 거치대 on a clean pedestal with space for text overlay, commercial ending scene",
+      "camera_motion": "강조 줌인 & 진동 효과 (Pulse Zoom)"
+    }
+  ]
+}

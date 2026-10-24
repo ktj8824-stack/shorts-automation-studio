@@ -1,0 +1,6 @@
+file 'D:/자동화/workspace/coupang_001/7_output/rendered_scene_01.mp4'
+file 'D:/자동화/workspace/coupang_001/7_output/rendered_scene_02.mp4'
+file 'D:/자동화/workspace/coupang_001/7_output/rendered_scene_03.mp4'
+file 'D:/자동화/workspace/coupang_001/7_output/rendered_scene_04.mp4'
+file 'D:/자동화/workspace/coupang_001/7_output/rendered_scene_05.mp4'
+file 'D:/자동화/workspace/coupang_001/7_output/rendered_scene_06.mp4'

@@ -1,0 +1,304 @@
+{
+  "summary": "조회수 82,511회 달성! 총 47.73초 동안 13번의 화면 전환(평균 3.67초/컷)으로 구성된 검증된 레퍼런스 영상",
+  "hook_analysis": {
+    "first_3_seconds_audio": "장망로피의 쿠팡과 잎에 집중하셔야 해요!",
+    "hook_type": "가성비 / 랭킹 추천형",
+    "why_it_works": "초반 3초에 '장망로피의 쿠팡과 잎에 집중하셔야 해요!' 대사로 호기심을 자극하고, 평균 3.67초 간격의 빠른 화면 전환으로 시청자 이탈을 막음"
+  },
+  "script_structure": {
+    "full_transcript": "장망로피의 쿠팡과 잎에 집중하셔야 해요! 배다! 요즘 피통에서 화재인 꿀임들을 소개해 주려고 가지고 와봤어! 첫 번째는 라면 세 번! 요즘 내가 먹방 때문에 라면을 자주 먹잖아! 이렇게 체방을 수니까 면을 흘렸내도 없어서 좋더라구! 두 번째는 자동선톱같이! 손톱이 잘 있는 게 아니라 갈린 거라 깍떡떡떡떡 하지 않고 매끈해! 껌딱장이지! 손톱이 안 튀어서 완전 편하다! 세 번째는 얼룩 제거제! 얼룩 제거제를 뿌려주고 따뜻한 물에 생긴 겸 세탁기에 더 이어주면 이랬던 옷을 새거처럼 돌려줘! 이거 진짜 강추!",
+    "segment_count": 18
+  },
+  "audience_reaction": {
+    "comment_summary": "수집된 인기 댓글 15개 중 구매/정보 관심 반응 0건 감지",
+    "buying_signals": [],
+    "top_comments_sample": [
+      {
+        "author": "@냐옹사랑해-n7e",
+        "text": "항상 루피가 귀여워요 오늘의 꿀팁 참고할께요😂😂",
+        "likes": 5
+      },
+      {
+        "author": "@미지-s1p",
+        "text": "너무귀엽잖앙ㅠㅠㅠㅡ으앙 꿀템소개고마웡!!!!",
+        "likes": 3
+      },
+      {
+        "author": "@CarlWinslowFM",
+        "text": "Thanks for the tips Loopy!",
+        "likes": 4
+      },
+      {
+        "author": "@행복한뤂덕",
+        "text": "우와 꿀팊 고맙다뤂❤",
+        "likes": 5
+      },
+      {
+        "author": "@마린시티야구",
+        "text": "오늘도 귀여운 루피.❤❤❤❤",
+        "likes": 3
+      },
+      {
+        "author": "@하양칭구들",
+        "text": "루피 넘 커여웤ㅋ 꿀팁 고마어요ㅋㅋ😊😊",
+        "likes": 1
+      },
+      {
+        "author": "@어새나",
+        "text": "아저그냥 블사파이어맛쿠키..가능해용?..😢",
+        "likes": 3
+      },
+      {
+        "author": "@p._hayan409",
+        "text": "루피 덕에 살 걱정 안하고 불닦 수혈 했지용..😅❤❤",
+        "likes": 2
+      }
+    ]
+  },
+  "visual_and_editing": {
+    "resolution": "1920x1080",
+    "fps": 30.0,
+    "duration_sec": 47.73,
+    "total_cuts": 13,
+    "avg_cut_duration_sec": 3.67,
+    "cut_timestamps": [
+      0.0,
+      5.0,
+      8.0,
+      10.2,
+      18.2,
+      21.6,
+      25.0,
+      27.4,
+      32.2,
+      33.2,
+      35.8,
+      37.8,
+      46.2
+    ],
+    "hook_3s_frames": [
+      {
+        "time_sec": 0.5,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\hook_0.5s.jpg"
+      },
+      {
+        "time_sec": 1.5,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\hook_1.5s.jpg"
+      },
+      {
+        "time_sec": 2.5,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\hook_2.5s.jpg"
+      }
+    ],
+    "captured_keyframes": [
+      {
+        "time_sec": 0.0,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_01_0.0s.jpg"
+      },
+      {
+        "time_sec": 5.0,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_02_5.0s.jpg"
+      },
+      {
+        "time_sec": 8.0,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_03_8.0s.jpg"
+      },
+      {
+        "time_sec": 10.2,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_04_10.2s.jpg"
+      },
+      {
+        "time_sec": 18.2,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_05_18.2s.jpg"
+      },
+      {
+        "time_sec": 21.6,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_06_21.6s.jpg"
+      },
+      {
+        "time_sec": 25.0,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_07_25.0s.jpg"
+      },
+      {
+        "time_sec": 27.4,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_08_27.4s.jpg"
+      },
+      {
+        "time_sec": 32.2,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_09_32.2s.jpg"
+      },
+      {
+        "time_sec": 33.2,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_10_33.2s.jpg"
+      },
+      {
+        "time_sec": 35.8,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_11_35.8s.jpg"
+      },
+      {
+        "time_sec": 37.8,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_12_37.8s.jpg"
+      },
+      {
+        "time_sec": 46.2,
+        "image_path": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_13_46.2s.jpg"
+      }
+    ]
+  },
+  "scenes_breakdown": [
+    {
+      "scene_no": 1,
+      "time_range": "00.00s ~ 02.48s",
+      "duration_sec": 2.5,
+      "narration": "장망로피의 쿠팡과 잎에",
+      "role": "🪝 1. 초반 후킹 (시선 강탈)",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_01_0.0s.jpg"
+    },
+    {
+      "scene_no": 2,
+      "time_range": "02.48s ~ 04.28s",
+      "duration_sec": 2.0,
+      "narration": "집중하셔야 해요!",
+      "role": "🪝 1. 초반 후킹 (시선 강탈)",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_01_0.0s.jpg"
+    },
+    {
+      "scene_no": 3,
+      "time_range": "04.28s ~ 05.28s",
+      "duration_sec": 2.0,
+      "narration": "배다!",
+      "role": "😫 2. 문제 제기 & 공감",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_02_5.0s.jpg"
+    },
+    {
+      "scene_no": 4,
+      "time_range": "12.64s ~ 16.68s",
+      "duration_sec": 4.0,
+      "narration": "요즘 피통에서 화재인 꿀임들을 소개해 주려고 가지고 와봤어!",
+      "role": "😫 2. 문제 제기 & 공감",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_04_10.2s.jpg"
+    },
+    {
+      "scene_no": 5,
+      "time_range": "16.68s ~ 18.36s",
+      "duration_sec": 2.0,
+      "narration": "첫 번째는 라면 세 번!",
+      "role": "✨ 3. 핵심 기능 & 장점 시연",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_05_18.2s.jpg"
+    },
+    {
+      "scene_no": 6,
+      "time_range": "18.36s ~ 21.36s",
+      "duration_sec": 3.0,
+      "narration": "요즘 내가 먹방 때문에 라면을 자주 먹잖아!",
+      "role": "✨ 3. 핵심 기능 & 장점 시연",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_05_18.2s.jpg"
+    },
+    {
+      "scene_no": 7,
+      "time_range": "21.36s ~ 22.80s",
+      "duration_sec": 2.0,
+      "narration": "이렇게 체방을 수니까",
+      "role": "✨ 3. 핵심 기능 & 장점 시연",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_06_21.6s.jpg"
+    },
+    {
+      "scene_no": 8,
+      "time_range": "22.80s ~ 25.08s",
+      "duration_sec": 2.3,
+      "narration": "면을 흘렸내도 없어서 좋더라구!",
+      "role": "✨ 3. 핵심 기능 & 장점 시연",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_06_21.6s.jpg"
+    },
+    {
+      "scene_no": 9,
+      "time_range": "25.08s ~ 27.12s",
+      "duration_sec": 2.0,
+      "narration": "두 번째는 자동선톱같이!",
+      "role": "✨ 3. 핵심 기능 & 장점 시연",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_07_25.0s.jpg"
+    },
+    {
+      "scene_no": 10,
+      "time_range": "27.12s ~ 28.60s",
+      "duration_sec": 2.0,
+      "narration": "손톱이 잘 있는 게 아니라",
+      "role": "✨ 3. 핵심 기능 & 장점 시연",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_08_27.4s.jpg"
+    },
+    {
+      "scene_no": 11,
+      "time_range": "28.60s ~ 31.64s",
+      "duration_sec": 3.0,
+      "narration": "갈린 거라 깍떡떡떡떡 하지 않고 매끈해!",
+      "role": "✨ 3. 핵심 기능 & 장점 시연",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_08_27.4s.jpg"
+    },
+    {
+      "scene_no": 12,
+      "time_range": "31.64s ~ 33.16s",
+      "duration_sec": 2.0,
+      "narration": "껌딱장이지!",
+      "role": "✨ 3. 핵심 기능 & 장점 시연",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_09_32.2s.jpg"
+    },
+    {
+      "scene_no": 13,
+      "time_range": "33.16s ~ 35.72s",
+      "duration_sec": 2.6,
+      "narration": "손톱이 안 튀어서 완전 편하다!",
+      "role": "✨ 3. 핵심 기능 & 장점 시연",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_10_33.2s.jpg"
+    },
+    {
+      "scene_no": 14,
+      "time_range": "35.72s ~ 37.92s",
+      "duration_sec": 2.2,
+      "narration": "세 번째는 얼룩 제거제!",
+      "role": "✨ 3. 핵심 기능 & 장점 시연",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_11_35.8s.jpg"
+    },
+    {
+      "scene_no": 15,
+      "time_range": "37.92s ~ 39.96s",
+      "duration_sec": 2.0,
+      "narration": "얼룩 제거제를 뿌려주고",
+      "role": "✨ 3. 핵심 기능 & 장점 시연",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_12_37.8s.jpg"
+    },
+    {
+      "scene_no": 16,
+      "time_range": "39.96s ~ 43.52s",
+      "duration_sec": 3.6,
+      "narration": "따뜻한 물에 생긴 겸 세탁기에 더 이어주면",
+      "role": "🛒 4. 결론 & 구매 유도(CTA)",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_12_37.8s.jpg"
+    },
+    {
+      "scene_no": 17,
+      "time_range": "43.52s ~ 45.96s",
+      "duration_sec": 2.4,
+      "narration": "이랬던 옷을 새거처럼 돌려줘!",
+      "role": "🛒 4. 결론 & 구매 유도(CTA)",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_13_46.2s.jpg"
+    },
+    {
+      "scene_no": 18,
+      "time_range": "45.96s ~ 47.76s",
+      "duration_sec": 2.0,
+      "narration": "이거 진짜 강추!",
+      "role": "🛒 4. 결론 & 구매 유도(CTA)",
+      "matched_frame": "workspace\\coupang_001\\1_reference\\w9wO3r3TT0c_frames\\scene_13_46.2s.jpg"
+    }
+  ],
+  "winning_formula_for_our_ad": {
+    "recommended_duration": "47초",
+    "recommended_cut_speed": "3.67초",
+    "benchmark_hook": "장망로피의 쿠팡과 잎에 집중하셔야 해요!",
+    "reusable_hook_template": [
+      "[원본 응용] 장망로피의 쿠팡과 잎에 집중하셔야 해... 아직도 이거 없이 고생하세요?",
+      "쿠팡에서 후기 폭발 중인 삶의 질 수직 상승 꿀템 TOP 픽!",
+      "솔직히 이건 왜 이제 샀나 후회되는 가성비 끝판왕 아이템!"
+    ]
+  }
+}
